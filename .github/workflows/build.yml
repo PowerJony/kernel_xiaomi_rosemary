@@ -70,5 +70,3 @@ jobs:
       with:
         name: Finished-KernelSU-Kernel
         path: AnyKernel3-KernelSU-rosemary.zip
-
-
